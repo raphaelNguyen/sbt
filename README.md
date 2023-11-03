@@ -47,6 +47,9 @@ Please read [CONTRIBUTING] carefully before opening a GitHub Issue.
 The short version: try [searching] or [asking] on StackOverflow.
 
 license
+
+I changed sth
+
 -------
 
 See [LICENSE].
